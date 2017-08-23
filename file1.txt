@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, Gitadding yet more code
 Hello, GitFix1
+=======
+Hello, GitFix1
+>>>>>>> e31367d... added fix2
